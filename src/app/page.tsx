@@ -136,6 +136,7 @@ export default function LandingPage() {
       title="Why Choose Top Man Clothing?"
       description="Experience unparalleled craftsmanship, premium fabrics, and designs that reflect your unique style. We blend tradition with modern aesthetics."
       tag="Our Promise"
+      animationType="blur-reveal"
     />
   </div>
 
