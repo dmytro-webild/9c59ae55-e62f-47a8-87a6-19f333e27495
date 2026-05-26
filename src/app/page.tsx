@@ -78,17 +78,17 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "hero-carousel-1",
-          imageSrc: "http://img.b2bpic.net/free-photo/indian-man-city-male-traditional-turban-hinduist-summer-city_1157-41030.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/indian-man-city-male-traditional-turban-hinduist-summer-city_1157-41030.jpg?_wi=1",
           imageAlt: "Man in elegant Indian kurta",
         },
         {
           id: "hero-carousel-2",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-man-posing-with-his-skateboard-city_23-2148823993.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-man-posing-with-his-skateboard-city_23-2148823993.jpg?_wi=1",
           imageAlt: "Man in stylish traditional Indian outfit",
         },
         {
           id: "hero-carousel-3",
-          imageSrc: "http://img.b2bpic.net/free-photo/indian-stylish-man-black-traditional-clothes-with-white-scarf-posed-outdoor-against-yellow-autumn-leaves-tree_627829-2492.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/indian-stylish-man-black-traditional-clothes-with-white-scarf-posed-outdoor-against-yellow-autumn-leaves-tree_627829-2492.jpg?_wi=1",
           imageAlt: "Man in modern ethnic jacket",
         },
         {
@@ -210,7 +210,7 @@ export default function LandingPage() {
           description: "We source only the finest silks, cottons, and blends for comfort, durability, and a luxurious feel.",
           bentoComponent: "reveal-icon",
           icon: Diamond,
-          imageSrc: "http://img.b2bpic.net/free-photo/indian-man-city-male-traditional-turban-hinduist-summer-city_1157-41030.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/indian-man-city-male-traditional-turban-hinduist-summer-city_1157-41030.jpg?_wi=2",
           imageAlt: "Handsome businesman in a summer city",
         },
         {
@@ -218,7 +218,7 @@ export default function LandingPage() {
           description: "Our collections feature modern cuts and styles that perfectly complement traditional Indian aesthetics.",
           bentoComponent: "reveal-icon",
           icon: Palette,
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-man-posing-with-his-skateboard-city_23-2148823993.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-man-posing-with-his-skateboard-city_23-2148823993.jpg?_wi=2",
           imageAlt: "Handsome businesman in a summer city",
         },
         {
@@ -226,7 +226,7 @@ export default function LandingPage() {
           description: "Enjoy tailored elegance with our precise sizing and easy return policy to ensure your satisfaction.",
           bentoComponent: "reveal-icon",
           icon: Crown,
-          imageSrc: "http://img.b2bpic.net/free-photo/indian-stylish-man-black-traditional-clothes-with-white-scarf-posed-outdoor-against-yellow-autumn-leaves-tree_627829-2492.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/indian-stylish-man-black-traditional-clothes-with-white-scarf-posed-outdoor-against-yellow-autumn-leaves-tree_627829-2492.jpg?_wi=2",
           imageAlt: "Handsome businesman in a summer city",
         },
       ]}
